@@ -12,3 +12,5 @@
 `override.tf, override.tf.json, *_override.tf, *_override.tf.json` - файлы override.tf, override.tf.json и любые файлы с постфиксами  \_override.rf или \_override.tf.json внутри папки terraform
 `.terraform.tfstate.lock.info` - данный файл внутри папки terraform
 `.terraformrc, terraform.rc` - данные фалы внутри папки terraform
+
+
